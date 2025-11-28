@@ -148,19 +148,19 @@ Note on Scaling Frontend–Backend Integration for Production
 
 
 
-&nbsp;   Use environment variables for API URLs (VITE\_API\_URL) instead of localhost.
+   Use environment variables for API URLs (VITE\_API\_URL) instead of localhost.
 
 
 
-&nbsp;   Deploy frontend separately (Netlify/Vercel) and backend on a server (Render/AWS).
+   Deploy frontend separately (Netlify/Vercel) and backend on a server (Render/AWS).
 
 
 
-&nbsp;   Store JWT tokens in HTTP-only cookies instead of localStorage.
+   Store JWT tokens in HTTP-only cookies instead of localStorage.
 
 
 
-&nbsp;   Implement pagination for /tasks to handle large data.
+   Implement pagination for /tasks to handle large data.
 
 
 
