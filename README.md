@@ -163,10 +163,9 @@ Note on Scaling Frontend–Backend Integration for Production
    Implement pagination for /tasks to handle large data.
 
 
-
-&nbsp;   Use input validation (Joi/Zod) and rate limiting for secure endpoints.
-
+   Use input validation (Joi/Zod) and rate limiting for secure endpoints.
 
 
-&nbsp;   Separate controllers, services, routes for modular backend structure.
+
+   Separate controllers, services, routes for modular backend structure.
 
